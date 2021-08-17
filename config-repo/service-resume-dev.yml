@@ -1,2 +1,4 @@
 service:
-  name: hello 123
+  message: hello 123
+mysql:
+  url: www.123.com
